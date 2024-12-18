@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "https://mechatron00.github.io/data-analytics-portfolio-data/images/tableau.png",
+    "tags": "#tag1 #tag2",
+    "info": "A comprehensive dashboard showcasing key performance indicators for sales and marketing metrics.",
+    "title": "Dashboard Overview"
+  },
+  {
+    "id": 2,
+    "image": "https://mechatron00.github.io/data-analytics-portfolio-data/images/tableau.png",
+    "tags": "#tag1 #tag2",
+    "info": "Visual representation of sales trends over the past year, broken down by region and product category.",
+    "title": "Sales Trends Analysis"
+  },
+  {
+    "id": 3,
+    "image": "https://mechatron00.github.io/data-analytics-portfolio-data/images/tableau.png",
+    "tags": "#tag1 #tag2",
+    "info": "Insights into customer demographics, including age, gender, and location distribution.",
+    "title": "Customer Demographics"
+  },
+  {
+    "id": 4,
+    "image": "https://mechatron00.github.io/data-analytics-portfolio-data/images/tableau.png",
+    "tags": "#tag1 #tag2",
+    "info": "Detailed analysis of profit margins by product category and sales channel.",
+    "title": "Profit Margin Analysis"
+  },
+  {
+    "id": 5,
+    "image": "https://mechatron00.github.io/data-analytics-portfolio-data/images/tableau.png",
+    "tags": "#tag1 #tag2",
+    "info": "Trends and analytics of website traffic, including unique visitors and bounce rate metrics.",
+    "title": "Website Traffic Insights"
+  }
+]
